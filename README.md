@@ -1,4 +1,4 @@
-# 1- Kaggle profilime girip "kaggle.json" dosyasını indirdim.
+# Brain Tumor Dataset Analysis and Processing
 
 This project involves processing and analyzing medical images using Python.
 
