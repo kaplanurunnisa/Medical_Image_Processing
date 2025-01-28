@@ -27,7 +27,7 @@ This project involves processing and analyzing medical images using Python.
 - Pre_processed görüntüler için ROI ve ardından sobel ve canny uygulandı ve her biri farklı dosya yapıları olarak kaydedildi
 - SEGMENTASYON
 - 1 eşikleme yöntemleriyle bir görüntüyü binarize eder
-- 2
+- 2 filtreler uygulanarak görüntüde değişiklikler yapılır
 - 3 Kontur uygulanması
 - 4 GrabCut Segmentasyonu
 - 9 Otsu yöntemiyle eşikleme yaparak görüntüyü binary (ikili) hale getirir. Son olarak, orijinal ve eşiklenmiş görüntüleri ekranda gösterir.
